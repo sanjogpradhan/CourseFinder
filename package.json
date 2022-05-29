@@ -1,8 +1,8 @@
 {
-  "homepage": "https://sanjogpradhan.github.io/coursefinder",
   "name": "coursefinder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sanjogpradhan.github.io/coursefinder",
   "dependencies": {
     "@mui/icons-material": "^5.8.0",
     "@mui/lab": "^5.0.0-alpha.53",
