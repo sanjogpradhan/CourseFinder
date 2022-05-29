@@ -1,0 +1,30 @@
+.subjectContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.courseContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.dateItem {
+  display: flex;
+  align-items: center;
+}
+.thisThat {
+  display: flex;
+  flex-direction: column;
+}
